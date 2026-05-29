@@ -1,39 +1,4 @@
 # NONJABULO KHOZA
- On this website named NONO  designed it we design and sell baby clothes at an affordable price online.
-1	3
-BUSINESS NAME: NONO DESIGNED IT	3
-BRIEF HISTORY	3
-2.MISSION AND VISION STATEMENT	3
-Mission	4
-VISION STATEMENT	4
-TARGET AUDIENCE	4
-2.WEBSITES GOALS AND OBJECTIVES	4
-GOALS  :	4
-OBJECTIVES	5
-3. PROPOSED WEBSITES FEATURES AND FUNCTIONALITY	5
-1.HOME	5
-2. ABOUT US	5
-3. OUR PRODUCTS	6
-4. CONTACT US	6
-5.OUR CART AND CHECK OUT	7
-CART	7
-CHECKOUT PAGE	7
-4. DESIGN AND USER EXPERIENCE :	8
-2.	TYPOGRAPHY	8
-3.Layout and design	8
-There is a navigation bar at the top of the website.	8
-4. user experience	8
-5. Wireframe	8
-5. TECHNOLOGY AND TOOLS	9
-•	Domain name	9
-•	Hosting	9
-Programing laungage and firework	9
-6. TIMELINE AND MILESTONE	9
-7.BUDGET	10
-10.REFERENCE	11
-
-
-
 WEBSITE PROPORSAL FOR NONO DESIGNED IT 
  
  
@@ -54,7 +19,7 @@ Our aim is to grow and have a strong online presence and be the number one trust
  
 2.MISSION AND VISION STATEMENT 
 Mission  
-The mission of NONO DESIGNED IT is to design baby and toddle clothes that are comfartable, soft ,stylish and affordable for every mom. whilst making sure that they are high quality clothes ,safe and customer satisfaction. 
+The mission of NONO DESIGNED IT is to design baby and toddle clothes that are comfortable, soft ,stylish and affordable for every mom. whilst making sure that they are high quality clothes ,safe and customer satisfaction. 
  
 VISION STATEMENT 
 The vision of  NONO DESIGNED IT is to become a well-known  online baby and toddle store with affordable prices and trendy stylish clothes. 
@@ -97,15 +62,13 @@ OBJECTIVES
 NONO DESIGNED IT  is  a online store that was established in 2026 with the aim of creating  trendy, stylish and comfortable baby clothes . This idea came after we noticed that many pregnant women wants to do shopping on their own but due to the long queue at the stores the eventually send someone to go and buy which leads to them getting clothes that they don't like we also noticed that baby shops lacks to sell clothes at and affordable price and also lacks the modern style Our aim is to provide high-quality clothes that are soft and comfortable for babies and toddlers . Not forgetting to bring the latest style Parents will be provided not only with clothes that looks good but also with clothes that feels soft on the baby skin and 99.9% safe for their babies . 
  
  
-3. OUR PRODUCTS
-4. 
+3. OUR PRODUCTS 
 •	Our product image. 
 •	Description. 
 •	Prices 
 •	Add to go cart. 
  
-5. CONTACT US
-6. 
+4. CONTACT US  
 You can contact us through email at khozanobjabulo861@gmail.com 
 Our contact number: 0826390252/0823931115 
 Our social media pages:  Youtube:  https: www. youtube.com 
@@ -114,7 +77,6 @@ Our social media pages:  Youtube:  https: www. youtube.com
 5.OUR CART AND CHECK OUT 
  
 CART  
-
 YOUR CART: Please ensure to check items that you have selected, make sure you choose the right size   before checking out. 
 See the total cost of all the products you chose before making payment. 
  
@@ -139,14 +101,20 @@ We deliver Nation wide
  
 4. DESIGN AND USER EXPERIENCE : 
 Colour scheme: In the website i used pastel colour which is rbg( 234, 100 ,146) 
- 
-2.	TYPOGRAPHY : I used  Aptos(Body) 
+ Background color : transparate
+Colour:hotpink
+2.	TYPOGRAPHY : I used  Aptos(Body)
+
+Align-item :centre
 I aso used (strong) for bold font for emphasising 
+Padding: 10px;20px
+Font style:italic
  
 3.Layout and design 
 There is a navigation bar at the top of the website. 
 •	Structured and easy to follow designs
- 
+•	 Position :sticky
+•	Position: fixed
 4. user experience 
 
 •	The  website will be easy to access  and fast loading page. 
@@ -161,7 +129,8 @@ The home page wireframe consist of image ,featured production section and footer
 •	Hosting : Webhosting  
 •	GITHUB 
 Programing laungage and firework 
-                                                                        : HTML 
+                                                                                    : HTML 
+                                                 :Css
  
  
  
@@ -229,7 +198,21 @@ Photo by Vhinz Tuqui from Pexels: https://www.pexels.com/photo/cute-baby-girl-we
   Photo by wedfort wedplanners from Pexels: https://www.pexels.com/photo/adorable-baby-in-elegant-purple-gown-28762394/
 Photo by Catalina Herrera from Pexels: https://www.pexels.com/photo/baby-sitting-beside-a-stuffed-toy-8773764/
 
+  Photo by Raymart Arniño from Pexels: https://www.pexels.com/photo/close-up-shot-of-a-boy-in-red-racing-suit-13790575/ 
+Photo by Phát Võ Hồ Tấn: https://www.pexels.com/photo/adorable-baby-in-brown-outfit-on-white-bed-32890742/ 
  
+ 
+
+
+
+
+
+
+
+
+
+
+
  
  
 
