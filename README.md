@@ -202,6 +202,122 @@ Photo by Catalina Herrera from Pexels: https://www.pexels.com/photo/baby-sitting
 Photo by Phát Võ Hồ Tấn: https://www.pexels.com/photo/adorable-baby-in-brown-outfit-on-white-bed-32890742/ 
  
  
+function saywelcome(){
+    alert(" welcome to nono designed it where we show the love of babies through clothes");
+}
+function paymentSuccess() {
+    document.getElementById("message").innerHTML =
+    " Payment Successful! Thank you for shopping with Nono Designed It.";
+}
+ alert(" welcome to nono designed it where we show the love of babies through clothes");
+
+    
+
+
+function goToCheckout() {
+    window.location.href ="checkout page.html";
+
+}
+
+
+
+let cart = [];
+let total = 0;
+let cartCount = 0;
+
+function addToCart(name, price) {
+
+    price = parseFloat(price);
+
+    cart.push({
+        name: name,
+        price: price
+    });
+
+    total += price;
+    cartCount++;
+
+    updateCart();
+}
+
+function updateCart() {
+
+    // update cart number
+    document.getElementById("cart-count").innerText = cartCount;
+
+
+
+
+
+
+
+
+
+
+
+
+function orderSuccess(){
+    document.getElementById("success-message").innerHTML =
+    "✅ Order Successful! Thank you for your purchase.";
+}
+}
+
+
+function showForm(method){
+
+    document.getElementById("cardForm").style.display = "none";
+    document.getElementById("payshapForm").style.display = "none";
+
+    if(method === "visa" || method === "mastercard"){
+        document.getElementById("cardForm").style.display = "block";
+    }
+
+    if(method === "payshap"){
+        document.getElementById("payshapForm").style.display = "block";
+    }
+}
+
+
+function showForm(method) {
+
+    document.getElementById("cardForm").style.display = "none";
+
+    if (method === "card") {
+        document.getElementById("cardForm").style.display = "block";
+    }
+}
+
+function orderSuccess() {
+
+    let cardNumber = document.querySelector("#cardForm input:nth-child(2)").value;
+    let name = document.querySelector("#cardForm input:nth-child(3)").value;
+
+    if (cardNumber === "" || name === "") {
+        alert("Please fill in card details first!");
+        return;
+    }
+
+    document.getElementById("success-message").innerHTML =
+        "✅ Payment Successful! Thank you for your order.";
+
+}
+
+const buttons = document.querySelectorAll(".btn");
+
+buttons.forEach(button => {
+    button.addEventListener("click", () => {
+        button.classList.add("grow");
+
+        setTimeout(() => {
+            button.classList.remove("grow");
+        }, 300);
+    });
+});
+
+
+
+
+
 
 
 
